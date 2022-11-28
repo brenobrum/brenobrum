@@ -5,6 +5,8 @@
 * Love code and learn new tech.
 * Backend developer, specialized in Rby on Rails.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenobrum&show_icons=true&theme=transparent)
+
 ![Snake animation](https://github.com/mishmanners/mishmanners/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
