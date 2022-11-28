@@ -25,13 +25,13 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-barros&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-barros&hide=html&layout=compact&theme=merko" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=francisco-barros&theme=dracula"/></td>
     </tr>   
   </table>
 </center>
 
-![](https://komarev.com/ghpvc/?username=francisco-barros&color=yellow)
+![](https://komarev.com/ghpvc/?username=brenobrum&color=yellow)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenobrum&show_icons=true&theme=merko) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
