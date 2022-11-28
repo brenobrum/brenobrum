@@ -8,7 +8,7 @@
 ![Snake animation](https://github.com/mishmanners/mishmanners/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenobrum&show_icons=true&theme=merko) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenobrum)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenobrum)](https://github.com/brenobrum)
 
 
 <p align="center">
