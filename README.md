@@ -9,7 +9,7 @@
 
 ### These are some of the technologies and tools that I like and study:
 
-![Ruby](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=ruby)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
